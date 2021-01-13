@@ -10,5 +10,5 @@ add your discord bot's connection token in the `tokens.py` file.
 
 it needs python 3.8 and a few dependencies. you can make a conda environment capable of running the code in windows with the `environment.yml` file.
 
-note: it will not work on linux because of [reasons](https://forums.tabletopsimulator.com/showthread.php?5526-Linux-External-Editor-API)
+note: it will not work on linux because of [reasons](https://forums.tabletopsimulator.com/showthread.php?4556-External-Integration-Bug-Linux)
 
